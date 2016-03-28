@@ -2,16 +2,16 @@
 This is a simple python program to help you remove all line breaks in a selected text file.
 
 #How to use
-- There are three ways to download the file.
+- There are three ways to download the file:
   1. Download the repo as a zip.
-  2. Or clone the repo
+  2. Download the <code>RemoveLineBreaks.py</code> file only.
+  3. Or clone the repo by typing the following command into your terminal:
 ```  
 git clone https://github.com/zhang96/RemoveLineBreaks
 ```
-    3. Download the <code>RemoveLineBreaks.py</code> file only
-
-
-- Set the directory in the terminal and then type the following command into the terminal
+- There are two ways to run the file:
+  1. Run the file IDLE or other IDEs.
+  2. Set the directory in the terminal and then type the following command into the terminal
 ```
 python RemoveLineBreaks.py
 ```
