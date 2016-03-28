@@ -6,6 +6,8 @@ This is a simple python program to help you remove all line breaks in a selected
   1. Download the repo as a zip.
   2. Download the <code>RemoveLineBreaks.py</code> file only.
   3. Or clone the repo by typing the following command into your terminal:
+
+
 ```  
 git clone https://github.com/zhang96/RemoveLineBreaks
 ```
