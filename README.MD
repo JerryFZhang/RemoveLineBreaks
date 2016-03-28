@@ -8,7 +8,7 @@ This is a simple python program to help you remove all line breaks in a selected
 ```  
 git clone https://github.com/zhang96/RemoveLineBreaks
 ```
-  3. Download the <code>RemoveLineBreaks.py</code> file only
+    3. Download the <code>RemoveLineBreaks.py</code> file only
 
 
 - Set the directory in the terminal and then type the following command into the terminal
