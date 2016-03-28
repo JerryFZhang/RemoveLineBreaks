@@ -1,6 +1,15 @@
 # RemoveLineBreaks
 This is a simple python program to help you remove all line breaks in a selected text file.
-
+Input:
+```
+1,
+2,
+3,
+```
+Output:
+```
+1,2,3,
+```
 #How to use
 - There are three ways to download the file:
   1. Download the repo as a zip.
