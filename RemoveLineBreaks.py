@@ -5,7 +5,7 @@ output_file_name = 'output.txt'
 
 with open(input_file_name, 'r') as my_input:
     print 'Reading initiated...'
-    data=my_input.read().replace('\n', '')
+    data = my_input.read().replace('\n', '')
     print 'Reading successful.'
 
 def write ():
@@ -29,7 +29,7 @@ else:
     else:
         input = (raw_input('There is some data in %s, are you sure to delete your existing data in %s? (y/n)' % (output_file_name,output_file_name)))
 
-        if input =='y':
+        if input == 'y':
             print'Emptying the existing file...'
             open(output_file_name, 'w').close()
             print'File %s is now empty.' % output_file_name
